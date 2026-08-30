@@ -1,5 +1,3 @@
-
-
 const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
 
 // Normalizar slug: convertir a lowercase, reemplazar espacios y caracteres especiales
