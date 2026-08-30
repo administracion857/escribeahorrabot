@@ -8,7 +8,7 @@ const NETLIFY_BUILD_HOOK = process.env.NETLIFY_BUILD_HOOK;
 
 const KEYWORDS_FILE = 'keywords-seed.json';
 const CONFIRMED_FILE = 'confirmed-articles.json';
-const NETLIFY_FUNCTION_URL = 'https://ahorrabot.es/.netlify/functions/seo-ai';
+const NETLIFY_FUNCTION_URL = 'hilarious-phoenix-61f665.netlify.app';
 
 async function analyzeKeyword(keyword, goal, context) {
   try {
